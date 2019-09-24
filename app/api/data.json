@@ -1,0 +1,174 @@
+{
+   "all": [
+      {
+         "_id": "591d9bb2227c1a0020d26826",
+         "email": "alex@wohlbruck.com",
+         "isAdmin": true,
+         "date": "October 14, 2017",
+         "text": "The CIA spent US$20 million in the 60s training cats to spy on the Soviets. The first spy cat was hit by a taxi.",
+         "type": "cat",
+         "user": {
+            "_id": "587288f6e6f85e64ae1c7ef7",
+            "name": {
+               "first": "Alex",
+               "last": "Wohlbruck"
+            }
+         },
+         "upvotes": 10,
+         "userUpvoted": false
+      },
+      {
+         "_id": "58e0086f0aac31001185ed02",
+         "email": "kasimir@schulz.com",
+         "isAdmin": true,
+         "date": "November 14, 2015",
+         "text": "Cats can't taste sweetness.",
+         "type": "cat",
+         "user": {
+            "_id": "58e007480aac31001185ecef",
+            "name": {
+               "first": "Kasimir",
+               "last": "Schulz"
+            }
+         },
+         "upvotes": 9,
+         "userUpvoted": false
+      },
+      {
+         "_id": "588e746706ac2b00110e59ff",
+         "email": "thomas@lockwood.com",
+         "isAdmin": false,
+         "date": "February 2, 2015",
+         "text": "Domestic cats spend about 70 percent of the day sleeping. And 15 percent of the day grooming.",
+         "type": "cat",
+         "user": {
+            "_id": "588e6e8806ac2b00110e59c3",
+            "name": {
+               "first": "Thomas",
+               "last": "Lockwood"
+            }
+         },
+         "upvotes": 9,
+         "userUpvoted": false
+      },
+      {
+         "_id": "5b1b40d4841d9700146158d8",
+         "email": "alex@wohlbruck.com",
+         "isAdmin": true,
+         "date": "May 22, 2017",
+         "text": "Koko the gorilla got a pet cat for her birthday in 1985 after she requested to have one as a birthday present.",
+         "type": "cat",
+         "user": {
+            "_id": "5a9ac18c7478810ea6c06381",
+            "name": {
+               "first": "Alex",
+               "last": "Wohlbruck"
+            }
+         },
+         "upvotes": 8,
+         "userUpvoted": false
+      },
+      {
+         "_id": "58e009420aac31001185ed11",
+         "email": "kasimir@schulz.com",
+         "isAdmin": "true",
+         "date": "December 3, 2016",
+         "text": "Koko the gorilla got a pet cat for her birthday in 1985 after she requested to have one as a birthday present.",
+         "type": "cat",
+         "user": {
+            "_id": "5a9ac18c7478810ea6c06381",
+            "name": {
+               "first": "Alex",
+               "last": "Wohlbruck"
+            }
+         },
+         "upvotes": 7,
+         "userUpvoted": false
+      },
+      {
+         "_id": "58e007f50aac31001185ecf8",
+         "email": "kasimir@schulz.com",
+         "isAdmin": true,
+         "date": "November 14, 2013",
+         "text": "A group of cats is called a clowder.",
+         "type": "cat",
+         "user": {
+            "_id": "58e007480aac31001185ecef",
+            "name": {
+               "first": "Kasimir",
+               "last": "Schulz"
+            }
+         },
+         "upvotes": 7,
+         "userUpvoted": false
+      },
+      {
+         "_id": "5b4910ae0508220014ccfe90",
+         "email": "alex@wohlbruck.com",
+         "isAdmin": true,
+         "date": "March 22, 2013",
+         "text": "Cats can hear the ultrasonic noises that rodents and dolphins make to communicate.",
+         "type": "cat",
+         "user": {
+            "_id": "5a9ac18c7478810ea6c06381",
+            "name": {
+               "first": "Alex",
+               "last": "Wohlbruck"
+            }
+         },
+         "upvotes": 7,
+         "userUpvoted": false
+      },
+      {
+         "_id": "58e00af60aac31001185ed1d",
+         "email": "inna@schulz.com",
+         "isAdmin": false,
+         "date": "January 1, 2019",
+         "text": "It was illegal to slay cats in ancient Egypt, in large part because they provided the great service of controlling the rat population.",
+         "type": "cat",
+         "user": {
+            "_id": "58e007480aac31001185ecef",
+            "name": {
+               "first": "Inna",
+               "last": "Schulz"
+            }
+         },
+         "upvotes": 7,
+         "userUpvoted": false
+      },
+      {
+         "_id": "5894af975cdc7400113ef7f9",
+         "email": "alex@wohlbruck.com",
+         "isAdmin": true,
+         "date": "November 24, 2017",
+         "text": "The technical term for a cat’s hairball is a bezoar.",
+         "type": "cat",
+         "user": {
+            "_id": "587288f6e6f85e64ae1c7ef7",
+            "name": {
+               "first": "Alex",
+               "last": "Wohlbruck"
+            }
+         },
+         "upvotes": 6,
+         "userUpvoted": false
+      },
+      {
+         "_id": "58e0088b0aac31001185ed09",
+         "email": "kasimir@schulz.com",
+         "isAdmin": true,
+         "date": "May 8, 2014",
+         "text": "The world's largest cat measured 48.5 inches long.",
+         "type": "cat",
+         "user": {
+            "_id": "58e007480aac31001185ecef",
+            "name": {
+               "first": "Kasimir",
+               "last": "Schulz"
+            }
+         },
+         "upvotes": 6,
+         "userUpvoted": false
+      }
+   ]
+}
